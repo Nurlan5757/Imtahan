@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|c:\\users\\ca.r214.13\\desktop\\imtahan bilet6\\imtahan\\imtahan\\dal\\freshcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\dal\\freshcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\imtahan\\models\\chefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084325EB-BB1F-45E3-878F-76A7442386D8}|Imtahan\\Imtahan.csproj|solutionrelative:imtahan\\models\\chefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 50,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FreshContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\DAL\\FreshContext.cs",
+              "RelativeDocumentMoniker": "Imtahan\\DAL\\FreshContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\DAL\\FreshContext.cs",
+              "RelativeToolTip": "Imtahan\\DAL\\FreshContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:25:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Imtahan\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Imtahan\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:22:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Imtahan\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwGEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:16:20.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chefs.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Models\\Chefs.cs",
+              "RelativeDocumentMoniker": "Imtahan\\Models\\Chefs.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Models\\Chefs.cs",
+              "RelativeToolTip": "Imtahan\\Models\\Chefs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:08:26.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\ViewModels\\account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Imtahan\\ViewModels\\account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\ViewModels\\account\\LoginVM.cs",
+              "RelativeToolTip": "Imtahan\\ViewModels\\account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:07:31.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\ViewModels\\account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Imtahan\\ViewModels\\account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\ViewModels\\account\\RegisterVM.cs",
+              "RelativeToolTip": "Imtahan\\ViewModels\\account\\RegisterVM.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:03:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Program.cs",
+              "RelativeDocumentMoniker": "Imtahan\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Program.cs",
+              "RelativeToolTip": "Imtahan\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:44:27.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Imtahan\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Imtahan\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:12:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Imtahan\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.13\\Desktop\\Imtahan bilet6\\Imtahan\\Imtahan\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Imtahan\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:12:09.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
